@@ -14,6 +14,15 @@ JOFFRE HERMOSILLA SALAS
 
 DANIEL AUGUSTO PRADO CUSSI
 
+SEMANA 4
+
+JOFFRE HERMOSILLA SALAS
+
+Roberto Jaison Juarez Vargas
+
+
+
+
 
 ![ScreenShot](https://github.com/joffrehermosilla/semana2/blob/master/Diagrama%20de%20Microservicios%20solucion%20semana2.drawio.png) 
 
